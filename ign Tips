@@ -1,0 +1,101 @@
+[33mcommit eab877be8aab282fbdacd8d249ce48abf3849086[m
+Author: Richie Peplin <rpeplin@gmail.com>
+Date:   Sat Jul 27 16:30:45 2013 -0400
+
+    changed web.js to port 8080
+
+[33mcommit 51a21c70e98cc094c19ad706a0c8ee8adc8b54e0[m
+Author: Richie Peplin <rpeplin@gmail.com>
+Date:   Sat Jul 27 16:14:31 2013 -0400
+
+    finished index.html
+
+[33mcommit 07bedbca98e2b185e399006869ed5ad1b969ef34[m
+Author: Richie Peplin <rpeplin@gmail.com>
+Date:   Tue Jul 23 21:21:00 2013 -0400
+
+    Through #4
+
+[33mcommit 822177438bfad31800910ef09b714ed38348b111[m
+Author: Richie Peplin <rpeplin@gmail.com>
+Date:   Tue Jul 23 19:11:01 2013 -0400
+
+    windows test
+
+[33mcommit 164f7d4539a2f332dfc236e37e2b2cc706ee4927[m
+Author: Richie Peplin <rpeplin@gmail.com>
+Date:   Sun Jul 14 16:45:56 2013 +0000
+
+    added grader.js and check.json
+
+[33mcommit 85a3dcb6013164cd72259fedaaeb429555df7b85[m
+Author: Richie Peplin <rpeplin@gmail.com>
+Date:   Sat Jul 13 01:55:10 2013 +0000
+
+    index.html complete really
+
+[33mcommit a8dcee6931f51348bc08d8261b00aac0d40e3945[m
+Author: Richie Peplin <rpeplin@gmail.com>
+Date:   Sat Jul 13 01:35:49 2013 +0000
+
+    index.html complete
+
+[33mcommit 6e90e186e97c10b981b630fd7cbca2783bbb4e8a[m
+Author: Richie Peplin <rpeplin@gmail.com>
+Date:   Sat Jul 13 00:45:55 2013 +0000
+
+    partial index try 1
+
+[33mcommit c882aa6f64f03f98a6b32bb4ea1926d8e724ee0b[m
+Author: Richie Peplin <rpeplin@gmail.com>
+Date:   Fri Jul 12 23:54:09 2013 +0000
+
+    changed web.js 6
+
+[33mcommit 4923256eaf844c7c8cd6921d8f7a6fbac2492529[m
+Author: Richie Peplin <rpeplin@gmail.com>
+Date:   Fri Jul 12 23:45:53 2013 +0000
+
+    changed web.js 5
+
+[33mcommit 362bbac460fecdcfee832b6db4d2550dcc62a778[m
+Author: Richie Peplin <rpeplin@gmail.com>
+Date:   Fri Jul 12 23:20:16 2013 +0000
+
+    changed web.js 4
+
+[33mcommit 5f0d2025370acd5ac15f1096f6deb137bd379db0[m
+Author: Richie Peplin <rpeplin@gmail.com>
+Date:   Fri Jul 12 23:15:57 2013 +0000
+
+    changed web.js 3
+
+[33mcommit a0c7666c23fd4a907a4a33024deb0a80c1f8e464[m
+Author: Richie Peplin <rpeplin@gmail.com>
+Date:   Fri Jul 12 23:12:57 2013 +0000
+
+    changed web.js 2
+
+[33mcommit 327abcec972042b3713271006eae0f3902aec24a[m
+Author: Richie Peplin <rpeplin@gmail.com>
+Date:   Fri Jul 12 23:05:36 2013 +0000
+
+    changed web.js
+
+[33mcommit af2c668323e8103a0065a3ff76dea7b70e8877d8[m
+Author: Richie Peplin <rpeplin@gmail.com>
+Date:   Fri Jul 12 22:55:46 2013 +0000
+
+    Added index.html
+
+[33mcommit f152a0ce51279f47d5aa710a4c907f9053e33803[m
+Author: Richie Peplin <rpeplin@gmail.com>
+Date:   Fri Jul 12 21:49:48 2013 +0000
+
+    Added a '2'
+
+[33mcommit 90fd58e343c29e54fc1d4e19036595500b2bdc21[m
+Author: Mark Pundsack <mp@heroku.com>
+Date:   Thu Aug 16 21:11:09 2012 -0700
+
+    init
